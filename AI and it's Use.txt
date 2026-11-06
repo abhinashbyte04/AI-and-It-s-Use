@@ -1,0 +1,287 @@
+Ai and its use
+
+For Study Purpose:
+1.Quizlet AI:
+
+Best For: Exam Prep, Memorisation & Flashcards. The classic flashcard platform completely overhauled with modern generative AI features ("Q-Chat").
+
+2. NotebookLM (notebooklm.google.com):
+
+
+ The Key Feature: It generates customized mock exams and study guides grounded only in your uploaded material. It also generates a downloadable "Audio Overview" (a 2-person podcast) discussing your syllabus, allowing you to listen and revise while commuting to the exam hall
+
+3.Astra AI (astra-ai.co):
+
+ Astra measures your understanding continuously by quizzing you. If it notices you are consistently failing questions about a specific formula or historic date, it dynamically adjusts its difficulty, flags that topic, and forces you to repeat it until you master it before the actual exam date.
+
+4.Quizgecko (quizgecko.com):
+
+
+ Paste your massive revision text blocks or upload a PDF. The AI isolates every testable fact and builds an interactive exam interface complete with detailed explanations for why an answer was right or wrong.
+
+
+5.Mindgrasp (mindgrasp.ai):
+
+ It processes the massive files and outputs an Exam Review Sheet, breaking down only the highly testable definitions, core formulas, and crucial arguments so you don't waste time on filler content.
+
+6.ChatGPT (://openai.com):
+
+It has the most adaptable conversational memory and access to advanced "thinking models" (o1/o3) for tough subjects.
+
+7.Google Gemini (://google.com):
+
+ It is connected directly to Google Search, meaning it can pull up real, historical past exam papers from the internet.
+
+8.Anthropic Claude (claude.ai):
+
+It is the absolute best at spotting logical flaws in your writing and breaking down complex text.
+
+9.Microsoft Copilot (://microsoft.com):
+
+It is built directly into Microsoft Edge and Windows, making it incredibly easy to access while reading PDFs.
+
+10.Socratic by Google:
+
+Take a picture of your physical textbook problem or handwritten worksheet using your phone camera.
+The AI immediately scans the question and pulls up highly visual explanations, YouTube video breakdowns, and curated study guides to teach you the underlying concept.
+
+
+For Research Purpose:
+
+1.Semantic Scholar:
+
+Search millions of academic research papers.
+Get AI-generated paper summaries.
+Explore related research and citations.
+Understand what a paper is about before reading it.
+
+2.Google Scholar: (IT IS NOT AI TOOL BUT ESSENTIAL FOR ACADEMIC RESEARCH)
+
+Find journal articles, conference papers and theses.
+Check how many times a paper has been cited.
+Find related research and authors.
+Discover research from universities worldwide.
+
+3.Elicit:
+
+Search relevant research papers using questions.
+ Summarize multiple research papers.
+ Extract important information into tables.
+ Compare findings from different studies.
+Very useful when preparing the literature review section of a research paper.
+
+4. Consensus:
+
+Ask questions and receive answers based on academic papers.
+Find supporting research for your arguments.
+Compare the findings of different studies.
+Get citations to the underlying research.
+Free plan includes unlimited paper searches, 10 Pro messages and 3 Deep Reviews per month.
+
+5. ResearchRabbit:
+
+Find papers related to your selected paper.
+Explore connections between authors and studies.
+Visualize citation networks.
+Organize papers into collections.
+Free tier supports up to 50 starting articles and unlimited searches.
+
+6. SciSpace:
+
+Upload a research paper in PDF format.
+Ask questions about the paper.
+Understand complicated equations and technical terms.
+Summarize research methodology and results.
+Particularly useful when reading complex AIML research papers.
+
+7. NotebookLM(free plan with limits):
+
+Upload multiple research papers.
+Ask questions based on your uploaded sources.
+Generate summaries and study notes.
+Connect information from different documents.
+Create audio overviews and other study materials.
+The free allowance currently includes up to 50 sources per notebook.
+
+8. ChatGPT(free plan with limits)
+
+**DeepSearch**
+
+
+Best for research assistance and paper structure
+Brainstorm research topics.
+Develop research questions and objectives.
+Prepare a research-paper outline.
+Explain research methodologies.
+Analyze datasets and help interpret results.
+Review the clarity and structure of your draft.
+You can also upload PDFs and ask questions about them.
+
+9.Paperpal:
+
+
+Best for academic writing and grammar
+Improve academic English.
+Correct grammar and sentence structure.
+Rewrite sentences in an academic tone.
+Help prepare abstracts and paper outlines.
+Provide writing and reference-checking assistance.
+Free plan includes 200 language suggestions per month and up to 5 uses per day of writing features.
+
+10.Zotero:
+
+Best for citations and reference management
+Save research papers and their details.
+Organize references into folders.
+Generate citations in APA, IEEE and other formats.
+Automatically create bibliographies in Word and Google Docs.
+Zotero is not an AI chatbot, but it is one of the most useful tools for producing a properly referenced research paper. It provides 300 MB of free cloud file storage.
+
+
+General Workflow of the AI:
+
+Google Gemini:
+
+Generate and edit images.
+Understand images, documents and questions.
+Write emails, plans and explanations.
+Help with coding, mathematics and learning.
+
+2. Canva AI:
+
+Create posters, logos, banners and thumbnails.
+Design Instagram posts and YouTube graphics.
+Create resumes and infographics.
+Generate images and assist with designs.
+
+3. Gamma AI:
+
+Generate complete presentations from a topic.
+Create documents and simple websites.
+Organize content into professional slides.
+Export presentations to PowerPoint and PDF.
+Free plan: 400 initial AI credits and up to 10 slides per prompt.
+
+4.Napkin AI:
+
+Convert written explanations into diagrams.
+Create flowcharts and visual representations.
+Generate infographics.
+Make technical concepts easier to explain.
+Free plan: 500 AI credits per week.
+
+5. GitHub Copilot:
+
+Generate code using natural language.
+Explain programming errors.
+Suggest code while typing in VS Code.
+Help write functions and debug programs.
+Free plan: 2,000 code completions per month.
+
+6. Framer:
+
+Create websites from text prompts.
+Generate landing pages and portfolios.
+Design website layouts without starting from scratch.
+Adjust typography, colors, spacing and responsive layouts.
+Free plan includes 500 AI credits to try and a Framer subdomain.
+
+7. CapCut AI:
+
+
+Create and edit videos.
+Generate subtitles automatically.
+Create AI-generated video and images.
+Remove or replace backgrounds.
+Make short videos for YouTube and Instagram.
+Some features may require Pro or vary by region.
+
+8. ElevenLabs:
+
+Convert text into realistic human-like speech.
+Generate voiceovers for videos.
+Create different speaking styles and voices.
+Generate sound effects.
+Free plan: 10,000 credits per month. Commercial usage requires an appropriate paid license.
+
+9. Otter AI:
+
+Convert spoken conversations into text.
+Transcribe lectures and meetings.
+Identify different speakers.
+Generate meeting summaries and notes.
+Free plan: 300 transcription minutes per month, with a 30-minute limit per transcription.
+
+
+10. Zapier:
+
+Automate repetitive computer tasks.
+Connect different applications.
+Automatically transfer information between apps.
+Build simple automated workflows with AI assistance.
+Free plan: 100 tasks per month and two-step workflows.
+
+
+Best AI Tools for vibe coding:
+
+Google Antigravity:
+
+AI agents can build and modify entire projects.
+Works with your local files.
+Can plan, code, test and debug.
+Supports a full development workflow.
+
+2. Lovable:
+
+
+Build websites using simple text prompts.
+Generate frontend and backend functionality.
+Create login systems and database integrations.
+Preview and modify your application.
+
+3. Bolt.new:
+
+Generate applications from prompts.
+Build React and other web projects.
+Edit code and preview changes instantly.
+Supports database and deployment integrations.
+
+4. Cursor:
+
+
+AI understands your project files.
+Generate and modify multiple files.
+Debug errors and explain code.
+Use agent features to implement complete changes.
+It is an AI-powered code editor, rather than just a prompt-to-website builder.
+
+5. Replit:
+
+Best for building and deploying applications in one place
+Describe your application to its AI Agent.
+Generate frontend and backend code.
+Run applications in the browser.
+Deploy projects without complicated local setup.
+
+6. Claude AI:
+
+Generate complete code from prompts.
+Design website interfaces.
+Explain and debug code.
+Create interactive prototypes using Artifacts.
+
+7. Claude Code (paid):
+
+Work directly with your project files.
+Build features across multiple files.
+Debug and refactor applications.
+Run commands and tests.
+Work through terminal and supported IDE integrations.
+Available with Claude Pro and higher eligible plans.
+
+8. Claude Artifacts:
+
+Generate interactive websites and prototypes.
+Create React components.
+Build small applications.
+Preview the result directly in Claude.
